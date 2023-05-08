@@ -1,0 +1,31 @@
+/* contactos */
+#dias{
+    color: red;
+    font-size: 20px;
+}
+#lunes{
+    color: green;
+    font-size: 20px;
+}
+#jueves{
+    color: red;
+}
+#luness{
+    color: green;
+}
+#formulario{
+    border-style: solid;
+    border-color: deepskyblue;
+}
+/* header */
+header{ 
+    width: 100%;
+    background-color: rgb(33, 33, 216);
+    height: 320px;
+}
+/* footer */
+footer{
+    width: 100%;
+    background-color: rgb(33, 33, 216);
+    height: 40px;
+}
