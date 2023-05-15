@@ -1,0 +1,54 @@
+/* contactos */
+#dias{
+    color: red;
+    font-size: 20px;
+}
+#lunes{
+    color: green;
+    font-size: 20px;
+}
+#jueves{
+    color: red;
+}
+#luness{
+    color: green;
+}
+#formulario{
+    border-style: solid;
+    border-color: deepskyblue;
+}
+/* header */
+header{ 
+    width: 100%;
+    background-color: rgb(82, 82, 230);
+    height: 320px;
+    text-align: center;
+    list-style: none;
+}
+.separado{
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    height: 25px;
+    margin: 10px;
+}
+.contactos{
+    background-color: #000;
+}
+.horarios{
+    background-color: darkred;
+}
+.lista{
+    background-color: aqua;
+}
+.comentarios{
+    background-color: chartreuse;
+}
+/* footer */
+footer{
+    width: 100%;
+    background-color: rgb(82, 82, 230);
+    height: 100px;
+    text-align: center;
+    list-style: none;
+}
